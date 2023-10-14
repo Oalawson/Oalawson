@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Oalawson
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning Python, DAX, ..
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
